@@ -1,0 +1,24 @@
+Dependency Remediation Update
+Date: 2026-03-24
+
+What was changed
+1) Security and deprecated-package remediation
+- Upgraded next from 13.5.1 to 15.5.14
+- Upgraded eslint-config-next from 13.5.1 to 15.5.14
+- Upgraded postcss to 8.4.31+
+- Removed explicit dependency @next/swc-wasm-nodejs
+- Upgraded eslint to 9.39.1
+
+2) Commands executed
+- npm audit fix
+- npm install next@15.5.14 eslint-config-next@15.5.14 postcss@8.4.31 eslint@9.39.1
+- npm uninstall @next/swc-wasm-nodejs
+
+Results
+- npm audit: 0 vulnerabilities (no low/moderate/high/critical)
+- npm build: successful on Next.js 15.5.14
+
+Current notes
+- The app builds and runs after dependency updates.
+- npm run lint now reports code-level lint issues in source files (not package vulnerabilities).
+- next lint is deprecated in Next 15 and will be removed in Next 16; migration to ESLint CLI flat config is recommended as a follow-up task.
