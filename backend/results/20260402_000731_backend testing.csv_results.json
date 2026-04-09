@@ -1,0 +1,1430 @@
+{
+  "analysis_date": "2026-04-02T00:07:31.604940",
+  "original_filename": "backend testing.csv",
+  "saved_filename": "20260402_000729_backend testing.csv",
+  "results": {
+    "total_records": 238,
+    "threats_detected": 0,
+    "normal_traffic": 238,
+    "predictions": [
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      },
+      {
+        "prediction": "NORMAL",
+        "confidence": 0.0010433039860799909,
+        "attack_probability": 0.0010433039860799909
+      }
+    ],
+    "raw_data": [
+      {
+        "No.": 1,
+        "Time": 0.0,
+        "Source": "192.168.1.5",
+        "Destination": "57.144.139.32",
+        "Protocol": "TCP",
+        "Length": 781,
+        "Info": "3289  >  5222 [PSH, ACK] Seq=1 Ack=1 Win=509 Len=727"
+      },
+      {
+        "No.": 2,
+        "Time": 0.009326,
+        "Source": "57.144.139.32",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "5222  >  3289 [ACK] Seq=1 Ack=728 Win=1377 Len=0"
+      },
+      {
+        "No.": 3,
+        "Time": 0.150578,
+        "Source": "57.144.139.32",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 118,
+        "Info": "5222  >  3289 [PSH, ACK] Seq=1 Ack=728 Win=1377 Len=64"
+      },
+      {
+        "No.": 4,
+        "Time": 0.190979,
+        "Source": "192.168.1.5",
+        "Destination": "57.144.139.32",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "3289  >  5222 [ACK] Seq=728 Ack=65 Win=509 Len=0"
+      },
+      {
+        "No.": 5,
+        "Time": 0.870359,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 73,
+        "Info": "443  >  56601 Len=31"
+      },
+      {
+        "No.": 6,
+        "Time": 0.896358,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 74,
+        "Info": "56601  >  443 Len=32"
+      },
+      {
+        "No.": 7,
+        "Time": 1.071649,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 71,
+        "Info": "56601  >  443 Len=29"
+      },
+      {
+        "No.": 8,
+        "Time": 1.121515,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 9,
+        "Time": 1.323395,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 71,
+        "Info": "56601  >  443 Len=29"
+      },
+      {
+        "No.": 10,
+        "Time": 1.359586,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 11,
+        "Time": 1.368984,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 12,
+        "Time": 1.394468,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 74,
+        "Info": "56601  >  443 Len=32"
+      },
+      {
+        "No.": 13,
+        "Time": 1.409651,
+        "Source": "TendaTechnol_4e:15:d8",
+        "Destination": "Broadcast",
+        "Protocol": "ARP",
+        "Length": 60,
+        "Info": "Who has 192.168.1.3? Tell 192.168.1.1"
+      },
+      {
+        "No.": 14,
+        "Time": 1.420723,
+        "Source": "TendaTechnol_4e:15:d8",
+        "Destination": "Broadcast",
+        "Protocol": "ARP",
+        "Length": 60,
+        "Info": "Who has 192.168.1.5? Tell 192.168.1.1"
+      },
+      {
+        "No.": 15,
+        "Time": 1.420753,
+        "Source": "Intel_1b:e6:08",
+        "Destination": "TendaTechnol_4e:15:d8",
+        "Protocol": "ARP",
+        "Length": 42,
+        "Info": "192.168.1.5 is at 4c:1d:96:1b:e6:08"
+      },
+      {
+        "No.": 16,
+        "Time": 1.560585,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 71,
+        "Info": "56601  >  443 Len=29"
+      },
+      {
+        "No.": 17,
+        "Time": 1.605833,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 18,
+        "Time": 1.806837,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 71,
+        "Info": "56601  >  443 Len=29"
+      },
+      {
+        "No.": 19,
+        "Time": 1.847854,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 20,
+        "Time": 2.023544,
+        "Source": "192.168.1.5",
+        "Destination": "18.97.36.56",
+        "Protocol": "TLSv1.2",
+        "Length": 84,
+        "Info": "Application Data"
+      },
+      {
+        "No.": 21,
+        "Time": 2.024952,
+        "Source": "192.168.1.5",
+        "Destination": "18.97.36.56",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "15866  >  443 [FIN, ACK] Seq=31 Ack=1 Win=254 Len=0"
+      },
+      {
+        "No.": 22,
+        "Time": 2.04868,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 71,
+        "Info": "56601  >  443 Len=29"
+      },
+      {
+        "No.": 23,
+        "Time": 2.077104,
+        "Source": "192.168.1.5",
+        "Destination": "34.211.33.161",
+        "Protocol": "TLSv1.2",
+        "Length": 82,
+        "Info": "Application Data"
+      },
+      {
+        "No.": 24,
+        "Time": 2.096349,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 25,
+        "Time": 2.230557,
+        "Source": "18.97.36.56",
+        "Destination": "192.168.1.5",
+        "Protocol": "TLSv1.2",
+        "Length": 80,
+        "Info": "Application Data"
+      },
+      {
+        "No.": 26,
+        "Time": 2.23066,
+        "Source": "192.168.1.5",
+        "Destination": "18.97.36.56",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "15866  >  443 [RST, ACK] Seq=32 Ack=27 Win=0 Len=0"
+      },
+      {
+        "No.": 27,
+        "Time": 2.231902,
+        "Source": "18.97.36.56",
+        "Destination": "192.168.1.5",
+        "Protocol": "TLSv1.2",
+        "Length": 78,
+        "Info": "Application Data"
+      },
+      {
+        "No.": 28,
+        "Time": 2.231902,
+        "Source": "18.97.36.56",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "443  >  15866 [FIN, ACK] Seq=51 Ack=31 Win=12283 Len=0"
+      },
+      {
+        "No.": 29,
+        "Time": 2.231902,
+        "Source": "18.97.36.56",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "443  >  15866 [ACK] Seq=52 Ack=32 Win=12283 Len=0"
+      },
+      {
+        "No.": 30,
+        "Time": 2.29741,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 71,
+        "Info": "56601  >  443 Len=29"
+      },
+      {
+        "No.": 31,
+        "Time": 2.332855,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 32,
+        "Time": 2.370946,
+        "Source": "34.211.33.161",
+        "Destination": "192.168.1.5",
+        "Protocol": "TLSv1.2",
+        "Length": 80,
+        "Info": "Application Data"
+      },
+      {
+        "No.": 33,
+        "Time": 2.370946,
+        "Source": "34.211.33.161",
+        "Destination": "192.168.1.5",
+        "Protocol": "TLSv1.2",
+        "Length": 78,
+        "Info": "Application Data"
+      },
+      {
+        "No.": 34,
+        "Time": 2.370946,
+        "Source": "34.211.33.161",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "443  >  11273 [FIN, ACK] Seq=51 Ack=29 Win=191 Len=0"
+      },
+      {
+        "No.": 35,
+        "Time": 2.371057,
+        "Source": "192.168.1.5",
+        "Destination": "34.211.33.161",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "11273  >  443 [ACK] Seq=29 Ack=52 Win=251 Len=0"
+      },
+      {
+        "No.": 36,
+        "Time": 2.371352,
+        "Source": "192.168.1.5",
+        "Destination": "34.211.33.161",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "11273  >  443 [FIN, ACK] Seq=29 Ack=52 Win=251 Len=0"
+      },
+      {
+        "No.": 37,
+        "Time": 2.386791,
+        "Source": "192.168.1.5",
+        "Destination": "109.176.239.0",
+        "Protocol": "TLSv1.2",
+        "Length": 84,
+        "Info": "Application Data"
+      },
+      {
+        "No.": 38,
+        "Time": 2.388687,
+        "Source": "192.168.1.5",
+        "Destination": "109.176.239.0",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "11312  >  443 [FIN, ACK] Seq=31 Ack=1 Win=509 Len=0"
+      },
+      {
+        "No.": 39,
+        "Time": 2.448104,
+        "Source": "109.176.239.0",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "443  >  11312 [ACK] Seq=1 Ack=31 Win=16 Len=0"
+      },
+      {
+        "No.": 40,
+        "Time": 2.454793,
+        "Source": "109.176.239.0",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "443  >  11312 [FIN, ACK] Seq=1 Ack=32 Win=16 Len=0"
+      },
+      {
+        "No.": 41,
+        "Time": 2.454867,
+        "Source": "192.168.1.5",
+        "Destination": "109.176.239.0",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "11312  >  443 [ACK] Seq=32 Ack=2 Win=509 Len=0"
+      },
+      {
+        "No.": 42,
+        "Time": 2.461851,
+        "Source": "104.18.41.41",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 690,
+        "Info": "443  >  52536 Len=648"
+      },
+      {
+        "No.": 43,
+        "Time": 2.479158,
+        "Source": "192.168.1.5",
+        "Destination": "104.18.41.41",
+        "Protocol": "UDP",
+        "Length": 87,
+        "Info": "52536  >  443 Len=45"
+      },
+      {
+        "No.": 44,
+        "Time": 2.533654,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 71,
+        "Info": "56601  >  443 Len=29"
+      },
+      {
+        "No.": 45,
+        "Time": 2.581664,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 46,
+        "Time": 2.662328,
+        "Source": "34.211.33.161",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "443  >  11273 [ACK] Seq=52 Ack=30 Win=191 Len=0"
+      },
+      {
+        "No.": 47,
+        "Time": 2.783067,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 71,
+        "Info": "56601  >  443 Len=29"
+      },
+      {
+        "No.": 48,
+        "Time": 2.821952,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 49,
+        "Time": 2.921439,
+        "Source": "192.168.1.5",
+        "Destination": "57.144.139.32",
+        "Protocol": "TLSv1.2",
+        "Length": 123,
+        "Info": "Application Data"
+      },
+      {
+        "No.": 50,
+        "Time": 2.930666,
+        "Source": "57.144.139.32",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "443  >  41503 [ACK] Seq=1 Ack=70 Win=337 Len=0"
+      },
+      {
+        "No.": 51,
+        "Time": 3.069964,
+        "Source": "57.144.139.32",
+        "Destination": "192.168.1.5",
+        "Protocol": "TLSv1.2",
+        "Length": 125,
+        "Info": "Application Data"
+      },
+      {
+        "No.": 52,
+        "Time": 3.111221,
+        "Source": "192.168.1.5",
+        "Destination": "57.144.139.32",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "41503  >  443 [ACK] Seq=70 Ack=72 Win=252 Len=0"
+      },
+      {
+        "No.": 53,
+        "Time": 3.148692,
+        "Source": "192.168.1.5",
+        "Destination": "192.168.1.1",
+        "Protocol": "DNS",
+        "Length": 75,
+        "Info": "Standard query 0xfca7 HTTPS www.youtube.com"
+      },
+      {
+        "No.": 54,
+        "Time": 3.149187,
+        "Source": "192.168.1.5",
+        "Destination": "192.168.1.1",
+        "Protocol": "DNS",
+        "Length": 75,
+        "Info": "Standard query 0xf29d A www.youtube.com"
+      },
+      {
+        "No.": 55,
+        "Time": 3.222967,
+        "Source": "192.168.1.5",
+        "Destination": "2.20.250.227",
+        "Protocol": "UDP",
+        "Length": 71,
+        "Info": "56601  >  443 Len=29"
+      },
+      {
+        "No.": 56,
+        "Time": 3.245044,
+        "Source": "192.168.1.1",
+        "Destination": "192.168.1.5",
+        "Protocol": "DNS",
+        "Length": 160,
+        "Info": "Standard query response 0xf29d A www.youtube.com CNAME youtube-ui.l.google.com A 172.217.170.206 A 172.217.170.174 A 216.58.223.78"
+      },
+      {
+        "No.": 57,
+        "Time": 3.245044,
+        "Source": "192.168.1.1",
+        "Destination": "192.168.1.5",
+        "Protocol": "DNS",
+        "Length": 124,
+        "Info": "Standard query response 0xfca7 HTTPS www.youtube.com CNAME youtube-ui.l.google.com HTTPS"
+      },
+      {
+        "No.": 58,
+        "Time": 3.24985,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Initial, DCID=54918df1c870dedb, PKN: 1, PADDING, CRYPTO, PING, PING, PING, CRYPTO, PING, CRYPTO, PING, CRYPTO, PING, CRYPTO, PADDING, PING, CRYPTO, PING, PADDING, PING, PADDING, PING"
+      },
+      {
+        "No.": 59,
+        "Time": 3.250102,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Initial, DCID=54918df1c870dedb, PKN: 2, PING, PING, PING, PING, PING, PING, CRYPTO, CRYPTO, CRYPTO, PING, CRYPTO, PING, CRYPTO, CRYPTO, CRYPTO"
+      },
+      {
+        "No.": 60,
+        "Time": 3.250839,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 122,
+        "Info": "0-RTT, DCID=54918df1c870dedb"
+      },
+      {
+        "No.": 61,
+        "Time": 3.260119,
+        "Source": "2.20.250.227",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 66,
+        "Info": "443  >  56601 Len=24"
+      },
+      {
+        "No.": 62,
+        "Time": 3.273288,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 82,
+        "Info": "Initial, SCID=f4918df1c870dedb, PKN: 1, ACK"
+      },
+      {
+        "No.": 63,
+        "Time": 3.273288,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Initial, SCID=f4918df1c870dedb, PKN: 2, ACK, PADDING"
+      },
+      {
+        "No.": 64,
+        "Time": 3.299406,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Initial, DCID=f4918df1c870dedb, PKN: 5, PADDING, PING, PADDING"
+      },
+      {
+        "No.": 65,
+        "Time": 3.311502,
+        "Source": "192.168.1.5",
+        "Destination": "192.168.100.11",
+        "Protocol": "TCP",
+        "Length": 66,
+        "Info": "17938  >  7680 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM"
+      },
+      {
+        "No.": 66,
+        "Time": 3.313327,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Initial, SCID=f4918df1c870dedb, PKN: 3, ACK, PADDING"
+      },
+      {
+        "No.": 67,
+        "Time": 3.315761,
+        "Source": "192.168.1.5",
+        "Destination": "192.168.1.3",
+        "Protocol": "TCP",
+        "Length": 66,
+        "Info": "17939  >  7680 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM"
+      },
+      {
+        "No.": 68,
+        "Time": 3.318717,
+        "Source": "192.168.1.5",
+        "Destination": "192.168.100.81",
+        "Protocol": "TCP",
+        "Length": 66,
+        "Info": "17940  >  7680 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM"
+      },
+      {
+        "No.": 69,
+        "Time": 3.356813,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Initial, DCID=f4918df1c870dedb, PKN: 7, PADDING, PING, PADDING"
+      },
+      {
+        "No.": 70,
+        "Time": 3.398209,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Initial, SCID=f4918df1c870dedb, PKN: 4, ACK, PADDING"
+      },
+      {
+        "No.": 71,
+        "Time": 3.398209,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Initial, SCID=f4918df1c870dedb, PKN: 5, CRYPTO, PADDING"
+      },
+      {
+        "No.": 72,
+        "Time": 3.398209,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 325,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 73,
+        "Time": 3.398209,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 986,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 74,
+        "Time": 3.398209,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 67,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 75,
+        "Time": 3.399163,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 120,
+        "Info": "Handshake, DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 76,
+        "Time": 3.399341,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 73,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 77,
+        "Time": 3.399754,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 1288,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 78,
+        "Time": 3.399818,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 79,
+        "Time": 3.39987,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 1292,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 80,
+        "Time": 3.399972,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 76,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 81,
+        "Time": 3.400035,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 1252,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 82,
+        "Time": 3.400089,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 82,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 83,
+        "Time": 3.400171,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 1252,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 84,
+        "Time": 3.40023,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 82,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 85,
+        "Time": 3.400277,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 792,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 86,
+        "Time": 3.411198,
+        "Source": "104.18.41.41",
+        "Destination": "192.168.1.5",
+        "Protocol": "UDP",
+        "Length": 76,
+        "Info": "443  >  56550 Len=34"
+      },
+      {
+        "No.": 87,
+        "Time": 3.436521,
+        "Source": "192.168.1.5",
+        "Destination": "104.18.41.41",
+        "Protocol": "UDP",
+        "Length": 86,
+        "Info": "56550  >  443 Len=44"
+      },
+      {
+        "No.": 88,
+        "Time": 3.438432,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 162,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 89,
+        "Time": 3.438432,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 67,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 90,
+        "Time": 3.438432,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 67,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 91,
+        "Time": 3.438432,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 67,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 92,
+        "Time": 3.438432,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 71,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 93,
+        "Time": 3.438432,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 67,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 94,
+        "Time": 3.438432,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 67,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 95,
+        "Time": 3.438432,
+        "Source": "192.168.1.3",
+        "Destination": "192.168.1.5",
+        "Protocol": "TCP",
+        "Length": 54,
+        "Info": "7680  >  17939 [RST, ACK] Seq=1 Ack=1 Win=0 Len=0"
+      },
+      {
+        "No.": 96,
+        "Time": 3.438968,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 74,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 97,
+        "Time": 3.595732,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 1062,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 98,
+        "Time": 3.595732,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 315,
+        "Info": "Protected Payload (KP0)"
+      },
+      {
+        "No.": 99,
+        "Time": 3.59669,
+        "Source": "192.168.1.5",
+        "Destination": "172.217.170.206",
+        "Protocol": "QUIC",
+        "Length": 77,
+        "Info": "Protected Payload (KP0), DCID=f4918df1c870dedb"
+      },
+      {
+        "No.": 100,
+        "Time": 3.6343,
+        "Source": "172.217.170.206",
+        "Destination": "192.168.1.5",
+        "Protocol": "QUIC",
+        "Length": 66,
+        "Info": "Protected Payload (KP0)"
+      }
+    ],
+    "insights": {
+      "service_breakdown": [
+        {
+          "service": "http",
+          "count": 95
+        }
+      ],
+      "protocol_distribution": [
+        {
+          "protocol": "tcp",
+          "count": 142
+        }
+      ]
+    },
+    "saved_file": "20260402_000729_backend testing.csv",
+    "analysis_time": "2026-04-02T00:07:31.601533"
+  }
+}
